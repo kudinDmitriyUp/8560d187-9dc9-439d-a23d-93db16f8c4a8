@@ -111,7 +111,7 @@ export default function Home() {
               id: "leadership",
               name: "Team Leadership",
               price: "Captain Material",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227151339-k0aze4t8.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227660166-xdm0tjtf.jpg",
               imageAlt: "Alessandro leadership portrait"
             }
           ]}
