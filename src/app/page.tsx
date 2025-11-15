@@ -51,7 +51,7 @@ export default function Home() {
             { text: "View My Journey", href: "about" },
             { text: "Contact Me", href: "contact" }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227150743-je35ql51.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227549140-egrxwp33.jpg"
           imageAlt="Alessandro Noya volleyball action shot"
         />
       </div>
