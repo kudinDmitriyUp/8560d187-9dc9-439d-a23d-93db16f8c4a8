@@ -97,7 +97,7 @@ export default function Home() {
               id: "volleyball",
               name: "Volleyball Champion",
               price: "Tournament Level",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227152303-475str3m.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763227577565-m2n7zxub.jpg",
               imageAlt: "Alessandro volleyball spike"
             },
             {
